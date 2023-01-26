@@ -1,6 +1,5 @@
 <h3>ChatBot</h3>
 
-Demo:
 <a href="https://chat-bot-kappa-sepia.vercel.app/">Demo of app</a>
 
 Screenshots:
