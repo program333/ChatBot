@@ -1,6 +1,6 @@
 <h3>ChatBot</h3>
 
-<a href="https://chat-bot-kappa-sepia.vercel.app/">Demo of app</a>
+<a href="https://chat-bot-kappa-sepia.vercel.app/" target="_blank">Demo of app</a>
 
 Screenshots:
 
